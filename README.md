@@ -1,7 +1,1 @@
-Hi! I'm Marcello!
-
-I'm currently a Data Engineer, working with streams, data ingestion, real time and near real time transformations, lake formation and other data related subjects.
-Usually I code in python, but when needed I can work with groovy or java.
-In my free time I like to play CTF and build web pages for friends, just to practice :)
-I'm hoping that you can find useful code in these repos!
-
+Reliable, resilient, and adaptable, I have worked on various projects, gaining experience in GCP, AWS, and the integration between both platforms. I have handled end-to-end data processes, encompassing the entire pipeline from data ingestion to user delivery. I am proficient in both streaming and batch processing, utilizing technologies such as NiFi, Kafka, Flink (Kinesis), Dataflow (Beam), Glue (Airflow), S3, Athena, relational and NoSQL databases, and other relevant tools. While Python is my primary programming language, I am also proficient in Java, Kotlin, GoLang, and JavaScript.
